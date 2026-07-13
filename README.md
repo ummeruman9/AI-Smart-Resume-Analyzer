@@ -30,7 +30,9 @@ This project uses **TF-IDF Vectorization** with a **Multinomial Naive Bayes** cl
 
 ### Home Screen
 
-> *(Screenshot will be added here.)*
+### Home Screen
+
+![Home Screen](home.png)
 
 ## Installation
 

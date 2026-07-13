@@ -1,16 +1,16 @@
 # AI Smart Resume Analyzer
 
-An AI-powered desktop application built with Python and Machine Learning that analyzes resumes, predicts suitable job roles, calculates ATS scores, compares resumes with job descriptions, and provides intelligent suggestions.
+An AI-powered desktop application built using **Python** and **Machine Learning** to analyze resumes, calculate ATS scores, predict suitable job roles, compare resumes with job descriptions, and provide intelligent suggestions for improvement.
 
 ## Features
 
-- ATS Resume Scoring
-- Machine Learning Role Prediction
+- ATS Resume Score Analysis
+- Machine Learning-Based Job Role Prediction
 - Resume & Job Description Matching
 - Skill Gap Analysis
-- AI Suggestions
-- PDF, DOCX & TXT Support
-- Modern GUI using CustomTkinter
+- AI-Powered Resume Improvement Suggestions
+- Support for PDF, DOCX, and TXT resumes
+- Modern Desktop GUI built with CustomTkinter
 
 ## Tech Stack
 
@@ -22,24 +22,15 @@ An AI-powered desktop application built with Python and Machine Learning that an
 - PDFPlumber
 - python-docx
 
-## Project Screenshots
+## Machine Learning
 
-Replace the placeholders below with your screenshots after uploading them.
+This project uses **TF-IDF Vectorization** with a **Multinomial Naive Bayes** classifier to predict the most suitable job role based on resume content. It also combines ATS scoring and resume analysis techniques to provide meaningful feedback.
 
-### 1. Home Screen
-Save as: screenshots/home.png
+## Project Preview
 
-### 2. Resume Loaded
-Save as: screenshots/resume_loaded.png
+### Home Screen
 
-### 3. ATS Score
-Save as: screenshots/ats_score.png
-
-### 4. ML Prediction
-Save as: screenshots/ml_prediction.png
-
-### 5. Final Analysis Report
-Save as: screenshots/final_report.png
+> *(Screenshot will be added here.)*
 
 ## Installation
 
@@ -50,12 +41,14 @@ python main.py
 
 ## Future Improvements
 
-- Deep Learning models
-- Cloud deployment
-- User accounts
-- Resume ranking
+- Deep Learning based Resume Classification
+- Cloud Deployment
+- Multi-language Resume Support
+- Resume Ranking System
+- Recruiter Dashboard
 
 ## Author
 
-Shafi Khan
+**Umme Ruman**
+
 BS Artificial Intelligence Student
